@@ -1,0 +1,5 @@
+flake8
+mock
+pytest-cov
+codecov
+requests_mock

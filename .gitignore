@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+.settings/
+*.code-workspace
+
+.coverage
+
+kc_config.json
